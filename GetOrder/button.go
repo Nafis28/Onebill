@@ -21,7 +21,7 @@ func main() {
 	var bearer = "Bearer " + "YOUR ACCESS TOKEN GOES HERE"
 
 	myApp := app.New()
-	myWindow := myApp.NewWindow("Aatrox Communications OneBIll Software")
+	myWindow := myApp.NewWindow("OneBIll Software")
 
 	content := widget.NewButton("GET ORDER", func() {
 
