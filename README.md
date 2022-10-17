@@ -1,4 +1,4 @@
-# Onebill API files
+# Onebill API using Bearer Token
 
 Onebillapi built using Go and Fyne.io
 
